@@ -25,7 +25,7 @@ create table temperature (
 );
 
 
-insert into casting_machine (name) values ('may 1')
+insert into casting_machine (name) values ('may 1');
 
 
 insert into sensor (name, host, port ,unit)
